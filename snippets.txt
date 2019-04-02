@@ -1,0 +1,8 @@
+# Hello World in sample
+# You can add more snippets
+# Python
+print("Hello World")
+
+# NodeJS/Javascript
+console.log("Hello World");
+alert("Hello World");
